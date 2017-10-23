@@ -1,0 +1,8 @@
+(move disc1 disc2 peg3)
+(move disc2 disc3 peg2)
+(move disc1 peg3 disc2)
+(move disc3 peg1 peg3)
+(move disc1 disc2 peg1)
+(move disc2 peg2 disc3)
+(move disc1 peg1 disc2)
+; cost = 7 (unit cost)
